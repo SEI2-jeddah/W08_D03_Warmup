@@ -20,7 +20,7 @@ For each team are going to talk and explain 1 main topic, you will have 30 minut
 - Microservices
 
 ### Nameless Kings
-- 
+- javascript garbage collection
 
 ### Unicorn
-- 
+- SQL VS NOSQL 
